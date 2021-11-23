@@ -1,4 +1,7 @@
 # Text-Classification-Pytorch
+
+- 综合LSTM和Attn. 看起来不错, 从这里开始尝试.
+
 ## Description
 This repository contains the implmentation of various text classification models like RNN, LSTM, Attention, CNN, etc in PyTorch deep learning framework along with a detailed documentation of each of the model.
 
